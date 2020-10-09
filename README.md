@@ -7,3 +7,4 @@ However the color scheming is not just for cosmetics. The goal is that depending
 you inherit moves from major color families to varying percentages. Each fighter can be refered
 by its color hexadecimal code.
 
+!()[https://www.google.com/url?sa=i&url=https%3A%2F%2Fdocs.gimp.org%2Fen%2Fgimp-dialogs-content.html&psig=AOvVaw3Xy1tFZOpj7LAET-CplVMI&ust=1602373457893000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIj077rYqOwCFQAAAAAdAAAAABAD]
