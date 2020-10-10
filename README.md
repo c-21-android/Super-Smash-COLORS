@@ -4,7 +4,7 @@
 ![image](https://docs.gimp.org/en/images/dialogs/color-triangle.png)
 
 # The idea
-![image of nintendo's super smash bros](https://images.nintendolife.com/473f4a064b82a/1280x720.jpg =250x250)
+![image of nintendo's super smash bros](https://images.nintendolife.com/473f4a064b82a/1280x720.jpg=250x250)
 
 I'm thinking of making a game like smash bros where the fighters are of different colors.
 However the color scheming is not just for cosmetics. The goal is that depending on the color
