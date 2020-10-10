@@ -1,5 +1,6 @@
 # Super-Smash-COLORS
 2D Fighting game like super smash bros but each color in the color wheel is a fighter.
+
 ![image](https://docs.gimp.org/en/images/dialogs/color-triangle.png)
 
 # The idea
