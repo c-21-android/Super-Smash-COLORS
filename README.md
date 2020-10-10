@@ -22,7 +22,7 @@ online but it could be expanded later on.
 
 
 # Road Map
-- Decides which moves to give to each main color families.
+- Decides which moves to give to each main color families (Decide which colors are main families (Red, Blue, Green, Yellow, etc...)).
 - Decides which moves are likely to be inherited by the fighter depending on the percentages of colors.
 - Implement the moves themselves (The animation).
 - Make one stage.
