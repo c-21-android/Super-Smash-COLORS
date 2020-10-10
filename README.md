@@ -21,5 +21,12 @@ The goal is to make a local multiplayer game out of this. I don't have dev abili
 online but it could be expanded later on.
 
 
+# Road Map
+- Decides which moves to give to each main color families.
+- Decides which moves are likely to be inherited by the fighter depending on the percentages of colors.
+- Implement the moves themselves (The animation).
+- Make one stage.
+- Allow for 4 players (this mean implementing game pad support is essential).
+- Give the player the ability to insert a hexadecimal code to select his main.
 
-
+# I intend the first version of this game to be web based. I know that people are rarely willing to download stuff.
