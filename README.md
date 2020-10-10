@@ -4,7 +4,7 @@
 ![image](https://docs.gimp.org/en/images/dialogs/color-triangle.png)
 
 # The idea
-<img src="https://images.nintendolife.com/473f4a064b82a/1280x720" alt="alt text" width="680" height="420">
+
 I'm thinking of making a game like smash bros where the fighters are of different colors.
 However the color scheming is not just for cosmetics. The goal is that depending on the color
 you inherit moves from major color families to varying percentages. Each fighter can be refered
